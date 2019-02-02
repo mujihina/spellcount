@@ -31,7 +31,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name    = 'spellcount'
 _addon.author  = 'Mujihina'
-_addon.version = '1.3'
+_addon.version = '2.1'
 _addon.commands = {'spellcount', 'sc'}
 
 
