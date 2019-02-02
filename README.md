@@ -1,5 +1,5 @@
 **Author:** Mujihina
-**Version:** v 2.1
+**Version:** v2.1
 
 # Spellcount #
 
